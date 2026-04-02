@@ -97,3 +97,14 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Visual Studio files
+.vsconfig
+UpgradeLog.htm
+[Oo]bj/
+[Bb]in/
+*.userprefs
+*.sln
+*.csproj
+*.unityproj
+*.suo
